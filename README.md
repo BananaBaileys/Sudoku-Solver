@@ -10,3 +10,6 @@ It then determine the correct number from 1 - 9
 If the number is valid then it places the number
 
 Method recall itself until the whole board is complete
+
+
+Currently implementing Android and iOS version by scanning and taking picture of the puzzle 
